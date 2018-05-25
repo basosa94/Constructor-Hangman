@@ -9,17 +9,6 @@ var Letter = function(letter){
         } else {
             console.log("_");
         }
-
     }
-
 }
-
-
-
-
-
-
-
-
-
 module.exports = Letter
